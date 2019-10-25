@@ -355,6 +355,9 @@ Narrows the query results based on the entries’ authors.
 #### The `authorGroup` argument
 Narrows the query results based on the user group the entries’ authors belong to.
 
+#### The `authorGroupId` argument
+Narrows the query results based on the user group the entries’ authors belong to, per the groups’ IDs.
+
 #### The `postDate` argument
 Narrows the query results based on the entries’ post dates.
 
