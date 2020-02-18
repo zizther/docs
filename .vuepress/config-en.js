@@ -12,6 +12,18 @@ module.exports = {
         }
     },
     sidebar: {
+        '/tutorial/': [
+            {
+                title: 'Tutorial',
+                collapsable: false,
+                children: [
+                    ['', 'Welcome'],
+                    'install',
+                    'build',
+                    'deploy',
+                ]
+            }
+        ],
         '/extend/': [
             {
                 title: 'Extending Craft',
@@ -191,6 +203,7 @@ module.exports = {
                 children: [
                     '',
                     'coc',
+                    'tutorial/',
                     'directory-structure',
                 ]
             },

@@ -29,6 +29,10 @@ Craft is a self-hosted PHP 7 application, built on [Yii 2](https://www.yiiframew
 
 ## Diving In
 
+::: tip
+If you’re brand new to Craft CMS the best place to begin is our [📖Getting Started Tutorial](/tutorial/README.md).
+:::
+
 To start getting acquainted with how content modeling works in Craft, read [Sections and Entries](sections-and-entries.md) and [Fields](fields.md).
 
 When you’re ready to install Craft, read [Server Requirements](requirements.md) and [Installation Instructions](installation.md).
