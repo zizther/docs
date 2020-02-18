@@ -81,7 +81,7 @@ The best way to get working quickly is to use a pre-packaged web server that run
 
 Choose one of the following guides to set up a development environment on your OS.
 
-TODO: write environment setup guides for each (must include creating a database + what settings Craft needs + how to run console commands)
+TODO: write environment setup guides for each (must include creating a database + what settings Craft needs + how to run console commands + checking System Report requirements)
 
 ### MacOS, Windows, and Linux
 
@@ -97,6 +97,7 @@ TODO: write environment setup guides for each (must include creating a database 
 
 ### Windows
 
+- [WAMP](#)
 - [AMPPS](#)
 - [XAMPP](#)
 
