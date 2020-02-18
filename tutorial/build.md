@@ -6,7 +6,21 @@ We’ll start with our configuration and content editing in the control panel, t
 
 ## Content in Craft CMS
 
+### Get familiar with content modeling in Craft
+
+TODO: explain content modeling
+
 TODO: overview of demo Sections, Entries, Field Layouts and Fields (include Globals?) **key point: flexibility**
+
+### Create blog fields
+
+### Create a blog section
+
+### Configure Globals
+
+### Edit entries
+
+TODO: edit blog entries
 
 ## Choose your front end
 
@@ -41,3 +55,5 @@ TODO: headless configuration
 TODO: querying Entries, Globals, and Assets
 
 TODO: sending data back to Craft (CSRF) ?
+
+TODO: configuring Live Preview

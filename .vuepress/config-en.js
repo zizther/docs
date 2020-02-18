@@ -18,6 +18,7 @@ module.exports = {
                 collapsable: false,
                 children: [
                     ['', 'Welcome'],
+                    'environment',
                     'install',
                     'build',
                     'deploy',
